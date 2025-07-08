@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Welcome
 
-<!--
-**00xhope/00xhope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Security Researcher with a background in cyber incident response and threat detection.  
+Previously, I worked as a Sr. Cyber Security Analyst in the banking sector, where I led both detection engineering and purple team initiatives — bridging offensive insights with defensive strategy.
 
-Here are some ideas to get you started:
+Currently, I'm focused on Smart Contract Security — identifying vulnerabilities, writing exploits, and building end-to-end security case studies in Web3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Areas of Focus
+
+- Smart Contract Auditing & Exploitation  
+- Purple Teaming & Threat Emulation  
+- Blockchain Attack Surfaces & On-Chain Forensics  
+- Incident Response & Threat Hunting  
+- Web3 Security Tooling (Foundry, Slither, Echidna)
+
+---
+
+### 🌐 Connect
+
+- X: [@00xhope](https://x.com/00xhope)  
+- GitHub: [github.com/00xhope](https://github.com/00xhope)  

@@ -9,11 +9,12 @@ Currently, I'm focused on Smart Contract Security — identifying vulnerabilitie
 
 ### 🛠️ Areas of Focus
 
-- Smart Contract Auditing & Exploitation  
-- Purple Teaming & Threat Emulation  
-- Blockchain Attack Surfaces & On-Chain Forensics  
-- Incident Response & Threat Hunting  
-- Web3 Security Tooling (Foundry, Slither, Aderyn, Echidna)
+- Smart Contract Auditing & Exploitation (Solidity + Rust/Solana)
+- EVM & Solana Smart Contract Security Reviews
+- Web3 Security Tooling (Foundry, Slither, Aderyn, Echidna, Anchor)
+- Blockchain Attack Surfaces & Protocol Security Analysis
+- Purple Teaming & Threat Emulation
+- Incident Response & Threat Hunting
 
 ---
 

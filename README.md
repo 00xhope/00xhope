@@ -20,5 +20,5 @@ Currently, I'm focused on Smart Contract Security — identifying vulnerabilitie
 
 ### 🌐 Connect
 
-- X: [@00xhope](https://x.com/00xhope)  
-- GitHub: [github.com/00xhope](https://github.com/00xhope)  
+- X: [@HopeOverflow](https://x.com/00xhope)  
+- GitHub: [@HopeOverflow](https://github.com/00xhope)  
